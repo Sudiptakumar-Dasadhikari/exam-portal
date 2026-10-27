@@ -1,0 +1,18 @@
+[
+  {
+    "id": "muuymb36popg",
+    "question": "This exam is",
+    "options": [
+      "Hard",
+      "Very hard",
+      "normal",
+      "easy"
+    ],
+    "votes": [
+      {
+        "userId": "mvoy10gxb462",
+        "choice": 1
+      }
+    ]
+  }
+]
